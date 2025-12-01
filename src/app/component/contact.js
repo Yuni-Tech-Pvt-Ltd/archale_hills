@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ContactSection() {
   return (
-    <section
+    <section id="contact"
       className="w-full h-[500px] py-24 bg-cover bg-center relative mt-20"
       style={{
         backgroundImage:

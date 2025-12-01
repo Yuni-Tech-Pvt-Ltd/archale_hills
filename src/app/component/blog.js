@@ -26,7 +26,7 @@ export default function BlogSection() {
   ];
 
   return (
-    <section className="w-full py-24 bg-gray-50">
+    <section id="blog" className="w-full py-24 bg-gray-50">
       <div className="max-w-7xl mx-auto px-6">
         <h1 className="text-4xl font-bold text-center mb-4 font-serif">
           From Our Blog

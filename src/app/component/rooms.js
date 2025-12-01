@@ -58,7 +58,7 @@ export default function RoomsSection() {
   }, []);
 
   return (
-    <section className="w-full py-20 bg-gray-50">
+    <section id="room" className="w-full py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-6">
         <h1 className="text-4xl font-bold text-center mb-10 font-serif">
           Our Luxury Rooms
